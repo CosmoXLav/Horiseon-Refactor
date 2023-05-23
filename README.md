@@ -20,5 +20,5 @@ Make links accesible and follow similar format as given by the example
 
 
 
-* Click the link for access: http://127.0.0.1:3000/Develop/index.html
+* Click the link for access: (https://cosmoxlav.github.io/Horiseon-Refactor/)
 * To view code: https://github.com/CosmoXLav/The-Glory-of-Horiseon
